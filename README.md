@@ -25,3 +25,16 @@ I have a strong foundation in software development principles, algorithms, and d
 
 - **Development Methodologies**:
   - Agile
+
+## 🌍 Connect with Me
+
+I'm always eager to connect with fellow developers or anyone interested in technology! You can reach out to me through:
+
+- [Email](legendary.killtell@gmail.com)
+- [Telegram](https://t.me/afganec229)
+  
+## 🔧 Open for Collaboration
+
+If you're looking to collaborate on interesting projects, or if you have ideas you'd like to discuss, feel free to drop me a message. I love being part of teams that are driven by innovation and creativity!
+
+Thank you for visiting my profile! 😊
