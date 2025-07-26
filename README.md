@@ -6,7 +6,7 @@ I'm a **Software Engineer** and **Backend Developer** from **Krasnodar, Russia**
 
 I have a strong foundation in software development principles, algorithms, and data structures. Over the years, I have honed my skills in software development, working on both client-side and server-side applications. I believe in writing clean, maintainable code and enjoy tackling complex problems that allow for innovative solutions.
 
-![My Skills](https://skillicons.dev/icons?i=py,java,cpp,spring,fastapi,flask,postgresql,hibernate,mysql,redis,kafka)
+![My Skills](https://skillicons.dev/icons?i=py,java,cpp,spring,fastapi,flask,postgresql,hibernate,mysql,redis,kafka,docker)
 
 
 ## 🌍 Connect with Me
