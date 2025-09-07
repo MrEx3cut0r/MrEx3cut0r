@@ -5,7 +5,7 @@ I'm a 15 years old **Software Engineer** and **Backend Developer** from **Krasno
 ## 🌟 About Me
 
 I have a strong foundation in software development principles, algorithms, and data structures. Over the years, I have honed my skills in software development, working on both client-side and server-side applications. I believe in writing clean, maintainable code and enjoy tackling complex problems that allow for innovative solutions.
-![My Skills](https://skillicons.dev/icons?i=py,java,spring,fastapi,flask,postgresql,hibernate,mysql,redis,kafka,docker,linux,mongodb,git)
+![My Skills](https://skillicons.dev/icons?i=py,java,spring,fastapi,flask,postgresql,hibernate,mysql,redis,kafka,docker,linux,mongodb,git,nginx)
 
 
 ## 🌍 Connect with Me
