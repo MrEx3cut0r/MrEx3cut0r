@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi,+Im+gumar)](https://git.io/typing-svg)
 
-I'm a 15 years old **Software Engineer** and **Backend Developer** from **Krasnodar, Russia** with **3 years** of experience in developing robust and scalable applications. My primary programming languages are **Java**, **Python**, and **C++**, each of which I've used in various projects and configurations.
+I'm a 15 years old **Backend Developer**, **finalist of the international Olympiad in sports hacking** from **Krasnodar, Russia** with **3 years** of experience in developing robust and scalable applications. My primary programming languages are **Java**, **Python**, and **C++**, each of which I've used in various projects and configurations.
 
 ## 🌟 About Me
 
